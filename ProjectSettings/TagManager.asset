@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - FallingObject
+  - Music
+  - Entity
+  - Projectile
+  - Item
+  - NormalPlatform
+  - TrapPlatform
+  - FragilePlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Particle
+  - Enemy
+  - EnemyBullet
+  - Item
+  - Player
+  - PlayerBullet
+  - 
+  - Boundary
+  - 
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cell
+    uniqueID: 3524647795
+    locked: 0
+  - name: Item
+    uniqueID: 3317356045
+    locked: 0
+  - name: Bullet
+    uniqueID: 1862546621
+    locked: 0
+  - name: Enemy
+    uniqueID: 1175605643
+    locked: 0
+  - name: Player
+    uniqueID: 3487169371
+    locked: 0
+  - name: Particle
+    uniqueID: 862994273
+    locked: 0
+  - name: UI
+    uniqueID: 1190072317
+    locked: 0
